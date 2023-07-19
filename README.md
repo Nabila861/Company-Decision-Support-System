@@ -11,4 +11,4 @@ The primary objective of this project is to design and implement a decision supp
 Keywords: Decision Support System (DSS), Inventory Management System, Biomedical Retail, Dashboard, Web Application Technologies, React.js, Charts.js, MYSQL.
 
  
- It's suggested that you view the video to understand the performance of the system. Please note that as this is an active project for a company, we're not able to provide all the information or source code due to legal issues. This is just to demonstrate the work I have done.
+ It's suggested that you view the video to understand the performance of the system. Please note that as this is an active project for a company, we're not able to provide all the information due to legal issues. This is just to demonstrate the work I have done.
